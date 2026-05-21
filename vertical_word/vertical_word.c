@@ -178,7 +178,6 @@ int main()
         }
         word = delete_arr(word);
         first = delete_arr(first);
-        c = 'a';
     }
 	return 0;
 }
